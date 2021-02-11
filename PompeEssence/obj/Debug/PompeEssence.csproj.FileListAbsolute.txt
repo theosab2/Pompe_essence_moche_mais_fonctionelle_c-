@@ -1,0 +1,10 @@
+C:\Users\theo2\Desktop\code\C#\PompeEssence\bin\Debug\PompeEssence.exe.config
+C:\Users\theo2\Desktop\code\C#\PompeEssence\bin\Debug\PompeEssence.exe
+C:\Users\theo2\Desktop\code\C#\PompeEssence\bin\Debug\PompeEssence.pdb
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.csprojAssemblyReference.cache
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.Properties.Resources.resources
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.csproj.GenerateResource.cache
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.exe
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.pdb
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.EcranPompeEssence.resources
+C:\Users\theo2\Desktop\code\C#\PompeEssence\obj\Debug\PompeEssence.Interaction.resources
